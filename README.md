@@ -125,7 +125,7 @@ If the checks don't appear or if the checks are stuck in progress, there's a few
 ### :keyboard: Activity: Fix the test
 
 1. Update the code in the `ci` branch to get the test to pass. You need to look something like this:
-   ```markdown
+   
    _underscore_
    ```
 1. **Commit changes**.
